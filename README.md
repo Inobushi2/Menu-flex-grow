@@ -1,3 +1,2 @@
 # Menu-flex-grow
-Menu de tela inteira 
-put the imagem in paste "img"
+Full screen menu that I made to practice my learning, there's nothing special.
